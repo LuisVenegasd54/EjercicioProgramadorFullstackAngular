@@ -1,0 +1,23 @@
+.header{
+    background-color: rgb(77, 141, 236);
+    color: white;
+    padding-left: 5vw;
+    padding-top: 1vw;
+    padding-bottom: 1vw;
+    padding-right: 5vw;
+    font-weight: 700;
+    font-size: 30px;
+
+}
+
+.footer{
+    background-color: rgb(77, 141, 236);
+    color: white;
+    padding-left: 5vw;
+    padding-top: 1vw;
+    padding-bottom: 1vw;
+    padding-right: 5vw;
+    font-weight: 700;
+    font-size: 30px;
+
+}
